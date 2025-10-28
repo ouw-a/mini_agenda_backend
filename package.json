@@ -1,5 +1,5 @@
 {
-  "name": "examen_back",
+  "name": "mini_agenda_backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,12 @@
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
-    "mongoose": "^8.15.1"
+    "framer-motion": "^12.23.22",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.1",
+    "pg": "^8.16.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.28.0",
